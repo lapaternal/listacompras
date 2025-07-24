@@ -1,0 +1,8 @@
+{
+  "name": "Lista de Compras Inteligente",
+  "description": "Una aplicación inteligente de lista de compras que te ayuda a recordar tus compras del supermercado y te permite subir fotos de los productos. Puedes crear múltiples listas de compras para diferentes ocasiones.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
